@@ -34,7 +34,7 @@ To get started please select a topic below:
 
     ---
 
-    What compute resources are available to you to facilitate your research?
+    What compututational resources are available to facilitate your research?
 
 </div>
 
